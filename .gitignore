@@ -35,3 +35,19 @@ yarn-error.log*
 
 # typescript
 *.tsbuildinfo
+
+# compiled output
+/dist
+
+# Logs
+logs
+*.log
+
+# IDEs and editors
+/.idea
+.project
+.classpath
+.c9/
+*.launch
+.settings/
+*.sublime-workspace
